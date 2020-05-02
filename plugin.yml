@@ -1,0 +1,11 @@
+author: UnioDex
+main: me.UnioDex.IslandDownloader.Main
+name: UnioIslandDownloader
+url: http://uniocraft.com/
+version: 1.0
+
+softdepend: [ASkyBlock, WorldEdit, WorldGuard]
+
+commands:
+  adaindir:
+    description: IslandDownloader
